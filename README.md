@@ -8,11 +8,6 @@
   <img src="https://img.shields.io/badge/Deployed-Netlify%20%7C%20Railway-black?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C7B7&size=28&center=true&vCenter=true&width=800&lines=Modern+Tech+Stack;Full+Stack+Development;React+%2B+Spring+Boot+%2B+MySQL" />
-</p>
-
-
 ## 🌐 Live Application
 
 🔗 **Frontend:** https://heal-sphere.netlify.app
@@ -103,51 +98,51 @@ HealSphere/
 ```
 
 ---
+## 🚀 Languages & Tools
 
-## 🛠️ Tech Stack
+<p align="center">
 
----
+<!-- FRONTEND -->
+<img src="https://img.shields.io/badge/HTML5-FF5733?logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-2196F3?logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-FFD600?logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-00E5FF?logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Vite-7C4DFF?logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Axios-9C27B0" alt="Axios"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=white" alt="React Router"/>
 
-### 💻 Frontend
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/React-⚛️-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-⚡-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-🔗-5A29E4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React_Router-🌐-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Charts-📊-FF6384?style=for-the-badge" />
+<!-- BACKEND -->
+<img src="https://img.shields.io/badge/Java-FF6F00?logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/SpringBoot-00C853?logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/SpringSecurity-00E676" alt="Spring Security"/>
+<img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Hibernate-78909C?logo=hibernate&logoColor=white" alt="Hibernate"/>
+<img src="https://img.shields.io/badge/JPA-0277BD" alt="JPA"/>
+
+<br/>
+
+<!-- DATABASE -->
+<img src="https://img.shields.io/badge/MySQL-0288D1?logo=mysql&logoColor=white" alt="MySQL"/>
+
+<br/>
+
+<!-- TOOLS -->
+<img src="https://img.shields.io/badge/Git-F4511E?logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-212121?logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF7043?logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/VS_Code-1E88E5?logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+
+<br/>
+
+<!-- DEPLOYMENT -->
+<img src="https://img.shields.io/badge/Netlify-00E5C4?logo=netlify&logoColor=black" alt="Netlify"/>
+<img src="https://img.shields.io/badge/Railway-FFFFFF?logo=railway&logoColor=black" alt="Railway"/>
+
 </p>
 
----
-
-### 🔧 Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-🌱-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-🔐-6DB33F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-🔑-000000?style=for-the-badge&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/Hibernate-🗄️-59666C?style=for-the-badge&logo=hibernate" />
-  <img src="https://img.shields.io/badge/JPA-📦-007396?style=for-the-badge" />
-</p>
-
----
-
-### 🗃️ Database
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-🐬-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
----
-
-### ☁️ Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/Netlify-🌍-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-🚄-000000?style=for-the-badge&logo=railway" />
-</p>
-
----
 
 ## ⚙️ Setup Instructions
 
@@ -218,7 +213,15 @@ If you like this project:
 
 💬 Give feedback
 
----
+## 📬 Contact Me
+
+📧 **Email:** [udayandranimblix@gmail.com](mailto:udayandranimblix@gmail.com)
+
+🔗 **LinkedIn:** [https://linkedin.com/in/andra-udaychandra](https://linkedin.com/in/andra-udaychandra)
+
+💻 **GitHub:** [https://github.com/uday-andra03](https://github.com/uday-andra03)
+
+
 <h1 align="center">
  💙 Thank You!
 </h1>
